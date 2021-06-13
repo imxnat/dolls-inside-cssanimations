@@ -6,7 +6,7 @@
 ***
 ## To learn more and understand better the properties used, I checked out this resources:
 
--[HTML input types] (https://www.w3schools.com/html/html_form_input_types.asp)
--[What is animation in CSS](https://developer.mozilla.org/es/docs/Web/CSS/animation)
--[z-index in CSS] (https://developer.mozilla.org/es/docs/Web/CSS/z-index)
--[The checkbox hack] (https://css-tricks.com/the-checkbox-hack/)
+- [HTML input types] (https://www.w3schools.com/html/html_form_input_types.asp)
+- [What is animation in CSS](https://developer.mozilla.org/es/docs/Web/CSS/animation)
+- [z-index in CSS] (https://developer.mozilla.org/es/docs/Web/CSS/z-index)
+- [The checkbox hack] (https://css-tricks.com/the-checkbox-hack/)
